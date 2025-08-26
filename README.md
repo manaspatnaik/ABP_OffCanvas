@@ -4,6 +4,8 @@
 
 This guide demonstrates how to replace the default ABP Modal dialogs with modern Offcanvas components for CRUD operations in ABP Suite projects. The implementation provides a better user experience with slide-out panels that don't block the entire interface.
 
+<img width="960" height="455" alt="image" src="https://github.com/user-attachments/assets/bd8c9b98-9aa9-4172-8d10-ea286195d036" />
+
 ## Prerequisites
 
 - ABP Commercial License (ABP Suite 1.2.1 or later)
